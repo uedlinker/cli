@@ -1,0 +1,25 @@
+{
+  "name": "@uedlinker/cli",
+  "version": "0.0.0",
+  "description": "CLI tool for generating development templates",
+  "keywords": [
+    "cli",
+    "development",
+    "templates",
+    "uedlinker"
+  ],
+  "author": "Uedlinker",
+  "homepage": "https://github.com/uedlinker/cli#readme",
+  "license": "MIT",
+  "main": "index.js",
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/uedlinker/cli.git"
+  },
+  "bugs": {
+    "url": "https://github.com/uedlinker/cli/issues"
+  }
+}

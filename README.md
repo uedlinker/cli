@@ -1,2 +1,3 @@
-# cli
-CLI tool for generating development templates
+# @uedlinker/cli
+
+CLI tool for generating development templates.
