@@ -21,5 +21,11 @@
   },
   "bugs": {
     "url": "https://github.com/uedlinker/cli/issues"
+  },
+  "dependencies": {
+    "@uedlinker/generate-templates": "^0.0.0",
+    "chalk": "^2.4.1",
+    "commander": "^2.17.1",
+    "inquirer": "^6.2.0"
   }
 }

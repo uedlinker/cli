@@ -1,7 +1,14 @@
 {
   "name": "@uedlinker/generate-templates",
   "version": "0.0.0",
-  "description": "Generating templates for @uedlinker/cli",
+  "description": "Generating development templates for @uedlinker/cli",
+  "keywords": [
+    "cli",
+    "development",
+    "templates",
+    "generator",
+    "uedlinker"
+  ],
   "author": "Uedlinker",
   "homepage": "https://github.com/uedlinker/cli#readme",
   "license": "MIT",
@@ -15,5 +22,8 @@
   },
   "bugs": {
     "url": "https://github.com/uedlinker/cli/issues"
+  },
+  "dependencies": {
+    "fs-extra": "^7.0.0"
   }
 }
